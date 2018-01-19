@@ -52,16 +52,12 @@ Each lecture is 90 minutes long.
 * Cosmological calculations.
 * Virtual Observatory Acces.
 
-## Lecture 6. (Optional) Simulating the Dark Energy Spectroscopic Instrument with Python
+## Lecture 6. (Optional) Reproducible Science.
 
-* What is the Dark Energy Spectroscopic Instrument?
-* Simulating the Universe.
-* Simulating galaxy spectra.
-* Simulating telescope pointings. 
-* Simulating the spectrograph.
-* Redshift fitting.
-* Simulating a redshift catalog.
-* Cosmological parameter estimation.
+* Why reproducible science?
+* Makefiles.
+* Git and Github.
+* Building a reproducible data processing workflow.
 
 ### Requirements: 
 * Projector for the lectures. 
