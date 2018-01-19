@@ -57,4 +57,4 @@ Each lecture is 90 minutes long.
 ### Requirements: 
 * Projector for the lectures. 
 * A computer lab with at least one computer per every two students. 
-* Software requirements: Unix environment with Anaconda python3.
+* Software requirements: Unix environment with Anaconda python3 with numpy, matplotlib, pandas, astropy installed.
