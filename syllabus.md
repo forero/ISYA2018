@@ -4,9 +4,10 @@
 
 ## Lecturer: Jaime E. Forero-Romero, Universidad de los Andes (Colombia)
 
-Description: Python has become a de facto standard in scientific computing.
+Description: Python has become a de facto standard in scientific computing. It is open source, easy to learn with a rich ecosystem of libraries.
 It has also become the language of choice for many astronomical communities and projects.
-Furthermore, python skills are an asset for astronomers looking for industry jobs (inside and outside astronomy.)
+Furthermore, python skills are a valuable asset for astronomers looking for industry jobs (inside and outside astronomy.)
+In this series of lectures we will cover the basics of python together with the most popular libraries for scientific computing, visualization, data analysis and basic astronomy/astrophysics computations.
 
 ## SYLLABUS
 
