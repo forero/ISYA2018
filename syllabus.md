@@ -10,11 +10,19 @@ Description:
 
 Each lecture is 90 minutes long.
 
-## Lecture 1. Python
+## Lecture 1. Basic Python I.
 * The python interpreter.  
-* Jupyter notebook.  
+* Jupyter notebook. 
+* Numbers.
+* Lists.
+* Dictionaries.
+* Iteration.
 
-## Lecture 2. Control structures, functions and modules.
+## Lecture 2. Basic Python II.
+* Control structures.  
+* Functions.
+* Objects.
+* Modules.
 
 ## Lecture 3. Numpy and Matplotlib
 
