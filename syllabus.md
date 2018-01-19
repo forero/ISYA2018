@@ -30,3 +30,13 @@ Each lecture is 90 minutes long.
 
 ## Lecture 5. Astropy
 
+## Lecture 6. (Optional) Simulating the Dark Energy Spectroscopic Instrument with Python
+
+* What is the Dark Energy Spectroscopic Instrument?
+* Simulating the Universe.
+* Simulating galaxy spectra.
+* Simulating telescope pointings. 
+* Simulating the spectrograph.
+* Redshift fitting.
+* Simulating a redshift catalog.
+* Cosmological parameter estimation.
