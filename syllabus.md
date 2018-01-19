@@ -26,9 +26,18 @@ Each lecture is 90 minutes long.
 
 ## Lecture 3. Numpy and Matplotlib
 
+* Numpy arrays.
+* 
+
 ## Lecture 4. Pandas
 
 ## Lecture 5. Astropy
+* Constants and units.
+* Time and dates.
+* Coordinates.
+* File formats: FITS, YAML and ASCII.
+* Cosmological calculations.
+* Virtual Observatory Acces.
 
 ## Lecture 6. (Optional) Simulating the Dark Energy Spectroscopic Instrument with Python
 
