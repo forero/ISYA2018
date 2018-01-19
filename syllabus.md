@@ -26,14 +26,20 @@ Each lecture is 90 minutes long.
 
 ## Lecture 3. Numpy and Matplotlib
 
-* Numpy arrays.
+* Numpy arrays. Slicing.
 * Reading and writing files.
 * Random Numbers.
 * Fast Fourier Transform.
-* Plotting 1D, 2D, 3D.
+* Plotting in 1D, 2D, 3D.
 * Animations.
 
 ## Lecture 4. Pandas
+* Reading data with pandas.
+* Visualization.
+* Adding/deleting columns.
+* Stack/Unstack/Transpose.
+* Slicing Pandas Data Frames.
+* Groupby/aggregate.
 
 ## Lecture 5. Astropy
 * Constants and units.
