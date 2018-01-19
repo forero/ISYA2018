@@ -39,7 +39,7 @@ Each lecture is 90 minutes long.
 * Constants and units.
 * Time and dates.
 * Coordinates.
-* File formats: FITS, YAML and ASCII.
+* Working with FITS files.
 * Cosmological calculations.
 * Virtual Observatory Acces.
 
