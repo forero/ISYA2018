@@ -53,3 +53,8 @@ Each lecture is 90 minutes long.
 * Redshift fitting.
 * Simulating a redshift catalog.
 * Cosmological parameter estimation.
+
+### Requirements: 
+* Projector for the lectures. 
+* A computer lab with at least one computer per every two students. 
+* Software requirements: Unix environment with Anaconda python3.
