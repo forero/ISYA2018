@@ -1,6 +1,6 @@
 # ISYA 2018
 
-## Course title: Basics of Python and Reproducible Science
+## Course title: Basics of Python for Astronomy and Astrophysics
 
 ## Lecturer: Jaime E. Forero-Romero, Universidad de los Andes (Colombia)
 
